@@ -72,7 +72,7 @@ public class MergeSortDemo {
 
         long end = System.currentTimeMillis();
 
-        System.out.println("Counting to 10000000 takes " +
+        System.out.println("Counting takes " +
                 (end - start) + "ms");
 
 
